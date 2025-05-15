@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">AgroTIC</string>
+    <string name="title_activity_main">AgroTIC</string>
+    <string name="package_name">com.agrotic</string>
+    <string name="custom_url_scheme">com.agrotic</string>
+</resources>
